@@ -76,6 +76,6 @@ Then enter the IGCSE Business Studies Questions in the terminal
 4. Intended for educational and exam practice use
 
 ---
-### Disclaimer:
-This tool is for learning purposes only
-Responses can take upto ~3 minutes to load
+### Disclaimers:
+1. This tool is for learning purposes only
+2. Responses can take upto ~3 minutes to load
