@@ -78,3 +78,4 @@ Then enter the IGCSE Business Studies Questions in the terminal
 ---
 ### Disclaimer:
 This tool is for learning purposes only
+Responses can take upto ~3 minutes to load
