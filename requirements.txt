@@ -1,0 +1,7 @@
+langchain
+langchain-ollama
+duckduckgo-search
+requests
+beautifulsoup4
+python-dotenv
+pydantic
