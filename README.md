@@ -30,10 +30,8 @@ ollama pull mistral:7b
 ---
 
 ### 2. Environmental Setup
-```bash
 Create a virtual environment to keep your dependencies organized.
 
-```
 #### MacOS/Linux
 
 ##### Create and activate virtual environment
